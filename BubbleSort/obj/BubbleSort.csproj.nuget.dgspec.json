@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DataStructures Algorithms\\BubbleSort\\BubbleSort.csproj": {}
+    "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "C:\\DataStructures Algorithms\\BubbleSort\\BubbleSort.csproj": {
+    "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DataStructures Algorithms\\BubbleSort\\BubbleSort.csproj",
+        "projectUniqueName": "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
         "projectName": "BubbleSort",
-        "projectPath": "C:\\DataStructures Algorithms\\BubbleSort\\BubbleSort.csproj",
+        "projectPath": "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
         "packagesPath": "C:\\Users\\narasund\\.nuget\\packages\\",
-        "outputPath": "C:\\DataStructures Algorithms\\BubbleSort\\obj\\",
+        "outputPath": "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
