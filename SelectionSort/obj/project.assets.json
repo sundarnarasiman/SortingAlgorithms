@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/BubbleSort/BubbleSort.csproj",
-      "projectName": "BubbleSort",
-      "projectPath": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/BubbleSort/BubbleSort.csproj",
+      "projectUniqueName": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/SelectionSort/SelectionSort.csproj",
+      "projectName": "SelectionSort",
+      "projectPath": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/SelectionSort/SelectionSort.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/BubbleSort/obj/",
+      "outputPath": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/SelectionSort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"

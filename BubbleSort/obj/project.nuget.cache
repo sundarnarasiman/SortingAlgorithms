@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ejgooKzseiJiynSIDVoQLm9seG37kj2rvYgMjUKLoUh1N+KDky3KORkRDrXQntoHgRNn750VtN1r8e4Zcw6wWg==",
+  "dgSpecHash": "MEVyc/UhUPKhQiNRA80qciyoRCQLJEBkrKy2auVvExA24qBo0otrNTso7Chq/t4YsvD8mfKLsKCwbEqFvRsREA==",
   "success": true,
-  "projectFilePath": "C:\\DataStructures Algorithms\\SortingAlgorithms\\BubbleSort\\BubbleSort.csproj",
+  "projectFilePath": "/Users/admin/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/BubbleSort/BubbleSort.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
