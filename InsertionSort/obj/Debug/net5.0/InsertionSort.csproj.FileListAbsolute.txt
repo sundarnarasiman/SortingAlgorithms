@@ -1,0 +1,15 @@
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/InsertionSort.deps.json
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.json
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/InsertionSort.runtimeconfig.dev.json
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/InsertionSort.dll
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/ref/InsertionSort.dll
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/bin/Debug/net5.0/InsertionSort.pdb
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.csprojAssemblyReference.cache
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfoInputs.cache
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.AssemblyInfo.cs
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.dll
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/ref/InsertionSort.dll
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.pdb
+/Users/narasund/Documents/DataStructuresAlgorithms/GitRepos/SortingAlgorithms/InsertionSort/obj/Debug/net5.0/InsertionSort.genruntimeconfig.cache
